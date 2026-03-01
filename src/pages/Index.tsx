@@ -358,7 +358,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="font-orbitron font-bold text-lg text-white">Discord-сообщество</h3>
-                    <p className="text-sm" style={{ color: 'rgba(255,255,255,0.6)' }}>Более <strong className="text-white">5 200</strong> игроков уже с нами</p>
+                    <p className="text-sm" style={{ color: 'rgba(255,255,255,0.6)' }}>Более <strong className="text-white">200</strong> игроков уже с нами</p>
                   </div>
                 </div>
                 <div className="flex flex-wrap gap-3 items-center">
