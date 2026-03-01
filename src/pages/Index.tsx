@@ -278,7 +278,7 @@ const Index = () => {
                   <button onClick={() => setActiveTab("shop")} className="btn-cyber px-5 py-2.5 rounded text-xs">Магазин</button>
                 </div>
               </div>
-              <div className="absolute top-3 right-3 font-mono-tech text-xs" style={{ color: 'var(--neon)', opacity: 0.6 }}>v1.25.0 // LIVE</div>
+              <div className="absolute top-3 right-3 font-mono-tech text-xs" style={{ color: 'var(--neon)', opacity: 0.6 }}>v1.28</div>
             </div>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-8">
