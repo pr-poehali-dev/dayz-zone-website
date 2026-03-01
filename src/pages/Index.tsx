@@ -126,7 +126,7 @@ const Index = () => {
         <div className="flex items-center justify-between px-4 h-14 max-w-7xl mx-auto">
           <button onClick={() => setActiveTab("home")} className="flex items-center gap-2">
             <div className="w-8 h-8 rounded flex items-center justify-center font-orbitron font-black text-xs" style={{ background: 'var(--neon)', color: 'var(--bg-deep)', boxShadow: '0 0 12px var(--neon)' }}>DZ</div>
-            <span className="font-orbitron text-sm font-bold tracking-widest hidden sm:block animate-flicker" style={{ color: 'var(--neon)', textShadow: '0 0 10px var(--neon)' }}>DAYZ<span style={{ color: 'var(--text-dim)' }}>_</span>ZONE</span>
+            <span className="font-orbitron text-sm font-bold tracking-widest hidden sm:block animate-flicker" style={{ color: 'var(--neon)', textShadow: '0 0 10px var(--neon)' }}>DAYZ ZONE</span>ZONE</span>
           </button>
 
           <div className="hidden md:flex items-center gap-4">
@@ -362,8 +362,8 @@ const Index = () => {
                   </div>
                 </div>
                 <div className="flex flex-wrap gap-3 items-center">
-                  <div className="text-center px-4"><p className="font-orbitron font-bold text-2xl text-white">5.2K</p><p className="text-xs" style={{ color: 'rgba(255,255,255,0.5)' }}>участников</p></div>
-                  <div className="text-center px-4"><p className="font-orbitron font-bold text-2xl" style={{ color: '#43b581' }}>342</p><p className="text-xs" style={{ color: 'rgba(255,255,255,0.5)' }}>онлайн</p></div>
+                  <div className="text-center px-4"><p className="font-orbitron font-bold text-2xl text-white">204</p><p className="text-xs" style={{ color: 'rgba(255,255,255,0.5)' }}>участников</p></div>
+                  <div className="text-center px-4"><p className="font-orbitron font-bold text-2xl" style={{ color: '#43b581' }}>73</p><p className="text-xs" style={{ color: 'rgba(255,255,255,0.5)' }}>онлайн</p></div>
                   <a href="#" className="px-6 py-2.5 rounded font-orbitron text-xs tracking-wider text-white" style={{ background: '#5865F2', boxShadow: '0 0 15px rgba(88,101,242,0.4)' }}>Вступить</a>
                 </div>
               </div>
